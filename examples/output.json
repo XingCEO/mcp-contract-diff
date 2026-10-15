@@ -1,0 +1,12 @@
+{
+  "added_tools": [],
+  "breaking": 1,
+  "findings": [
+    {
+      "detail": "Input now requires region",
+      "path": "/inputSchema/required",
+      "severity": "breaking",
+      "tool": "search"
+    }
+  ]
+}
